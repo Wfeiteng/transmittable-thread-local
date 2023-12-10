@@ -67,7 +67,8 @@
 		<module>ttl-integrations/vertx3-ttl-integration</module>
 
 		<module>ttl-integrations/sample-ttl-agent-extension-transformlet</module>
-	</modules>
+        <module>custom</module>
+    </modules>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
